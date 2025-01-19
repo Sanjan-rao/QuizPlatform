@@ -2,6 +2,7 @@
 
 This is platform where user can take up the quiz and get the score. This project is used to demonstrate the use of Unity's UI toolkit.
 UI toolkit provides and easy way to build interactive menu screens and other components required in a game.
+This project is an extension of the QuizU platform provided by unity technologies for users to get used to the UI toolkit. This toolkit helps in simplifying the hassle for creating a main menu and other non gaming screens for any game.
 
 ## What is UI toolkit
 
